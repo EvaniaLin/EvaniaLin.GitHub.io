@@ -7,6 +7,7 @@ tags: [IELTS,Animals]
 description: Some people believe that developments in the field of artificial intelligence will have a positive impact on our lives in the near future. Others, by contrast, are worried that we are not prepared for a world in which computers are more intelligent than humans. Discuss both of these views and give your own opinion.
 
 And it's the imitaiton of simon's writing
+
 ---
 
 People are either excited and worried about the future impact of artificial intelligence. Personally, I can understand both excitement and concern; I am both fascinated by development in AI and apprehensive of its future impact.
