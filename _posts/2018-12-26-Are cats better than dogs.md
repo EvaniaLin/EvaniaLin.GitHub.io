@@ -5,6 +5,7 @@ date: 2018-12-26
 categories: blog
 tags: [IELTS,Animals]
 description: Last night, I took part in a debate. The topic of that debate is cats are better than dogs. I am the one for the motion.
+
 ---
 
 In the age-old battle between cats lovers and dog lovers, there may never be a clear winner. I love both pets and they are both the companions of human being. But in my opinion, cats are better than dogs in some ways.
