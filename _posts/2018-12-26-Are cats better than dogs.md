@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passage1: Are Cats Better Than Dogs?
+title: Are Cats Better Than Dogs?
 date: 2018-12-26
 categories: blog
 tags: [IELTS,Animals]
