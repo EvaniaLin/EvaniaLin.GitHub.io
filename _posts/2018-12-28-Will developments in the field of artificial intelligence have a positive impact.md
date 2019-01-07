@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passage1:The future impact of AI
+title: The future impact of AI
 date: 2018-12-28
 categories: blog
 tags: [IELTS,Animals]
